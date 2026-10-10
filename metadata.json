@@ -1,0 +1,6 @@
+{
+  "name": "Nirbhaya Mind: Air-Gapped Mental Health Triage & Handoff",
+  "description": "Zero-telemetry, offline-first mental health conversational triage and air-gapped clinical QR handoff with multilingual Indian dialect support, interactive grounding, and HIPAA-compliant clinician portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
