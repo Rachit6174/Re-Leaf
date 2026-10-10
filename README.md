@@ -3,8 +3,9 @@
 | Sanctuary Welcome Gate | Dark Mode Interface | Bright Mode Interface |
 | --- | --- | --- |
 <img width="1470" height="781" alt="Screenshot 2026-10-10 at 8 16 49 AM" src="https://github.com/user-attachments/assets/d0f94aad-1f3c-4b7d-9e8d-20ed5e09996a" />
-" alt="Hackathon Banner">
+
  <img width="1470" height="781" alt="Screenshot 2026-10-10 at 8 16 34 AM" src="https://github.com/user-attachments/assets/b5fda937-93cb-40b6-8072-f2469bd8544a" />
+ 
  <img width="1249" height="699" alt="Screenshot 2026-10-10 at 8 14 57 AM" src="https://github.com/user-attachments/assets/00bbe18a-c6d2-4056-a737-8df4f631db3f" />
 
 
